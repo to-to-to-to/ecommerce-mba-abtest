@@ -11,16 +11,5 @@ This project uses the **Online Retail II** dataset to discover product co-purcha
 ## Tech Stack
 Python 3.11 | Conda | pandas | mlxtend | matplotlib | scikit-learn | statsmodels | seaborn | Jupyter
 
-## Folder Layout
-```bash
-data/
-raw/ -> original dataset 
-processed/ -> cleaned data
-notebooks/
-src/
-reports/
-figures/
-```
-
 ## Dataset
 [Online Retail II – UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
