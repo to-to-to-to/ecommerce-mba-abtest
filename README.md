@@ -38,7 +38,7 @@ Python 3.11 | Conda | pandas | mlxtend | matplotlib | scikit-learn | statsmodels
 ### Insights
 
 - The recommender increased revenue by **~4.8%**, though not statistically significant at 95% confidence.  
-- Basket sizes increased by **1.6 items**, indicating stronger user engagement.  
+- Basket sizes increased by **1.6 items**, which indicating stronger user engagement.  
 - Acceptance rate was **very high (83.8%)**, showing that rules provide relevant suggestions.  
 - Overall, positive business impact with room for model improvements.
 
@@ -79,8 +79,7 @@ Python 3.11 | Conda | pandas | mlxtend | matplotlib | scikit-learn | statsmodels
 
 ## Acknowledgements
 
-Dataset provided by UCI Machine Learning Repository (Online Retail Dataset).  
-This project was completed as a personal data science portfolio project.
+Dataset provided by UCI Machine Learning Repository (Online Retail Dataset). This project was completed as a personal data science portfolio project.
 
 
 
