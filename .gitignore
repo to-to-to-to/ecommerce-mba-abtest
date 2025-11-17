@@ -17,13 +17,3 @@ __pycache__/
 *.egg-info/
 .eggs/
 .cache/
-
-# Data
-data/raw/
-*.xlsx
-*.parquet
-*.pkl
-*.csv
-
-# Figures / outputs
-reports/figures/
